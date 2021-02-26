@@ -1,7 +1,7 @@
 [
     {
       "cpu": 256,
-      "image": "larajorge11/flaskdavordemo:1.0",
+      "image": "larajorge11/flaskdavordemo:latest",
       "memory": 512,
       "name": "flaskdavordemo",
       "networkMode": "awsvpc",
